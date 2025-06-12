@@ -49,6 +49,7 @@ A passionate Biomedical Engineer from Havana, Cuba, with experience in software 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMEE0RTQiIGQ9Ik0xMjAgNDBjMC0xMS4xLTguOS0yMC0yMC0yMHMtMjAgOC45LTIwIDIwIDguOSAyMCAyMCAyMCAyMC04LjkgMjAtMjB6Ii8+PC9zdmc+" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDc2QTgiIGQ9Ik0xMjAgNDBjMC0xMS4xLTguOS0yMC0yMC0yMHMtMjAgOC45LTIwIDIwIDguOSAyMCAyMCAyMCAyMC04LjkgMjAtMjB6Ii8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
