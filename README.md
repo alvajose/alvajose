@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&size=28&duration=4000&center=true&vCenter=true&lines=Hi+I'm+Jose+Luis+Mendez.;Software%2FFirmware+Developer+and+Biomedical+Engineer." alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Jose+Luis+Mendez.;Software%2FFirmware+Developer+and+Biomedical+Engineer." alt="Typing SVG" /></a>
   
   
 </div>
