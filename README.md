@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF4949&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Jose Luis+Mendez+%F0%9F%91%8B;Software/Firmawre+Developer;Biomedical+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&size=28&duration=4000&center=true&vCenter=true&lines=Hi+I'm+Jose+Luis+Mendez.;Software%2FFirmware+Developer+and+Biomedical+Engineer." alt="Typing SVG" />
+  
+  
 </div>
 
 <div align="center">
