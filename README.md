@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+I'm+Jose+Luis+Mendez;Software%2FFirmware+Developer+;and+Biomedical+Engineer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+I'm+Jose+Luis+Mendez;Biomedical+Engineer+;and+Software+Engineer." alt="Typing SVG" /></a>
   
   
 </div>
@@ -25,42 +25,6 @@ A passionate Biomedical Engineer from Havana, Cuba, with experience in software 
 - 🤝 Open to collaborating on open-source web applications, digital systems projects and AI projects.
 - 📫 Reach me at [alvajoseluis01@gmail.com](mailto:alvajoseluis01@gmail.com)
 - ⚡ Always learning and growing in tech
-
-## 🛠 Skills & Technologies
-
-<div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-  <h3>Backend Development</h3>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-  <h3>Software Development</h3>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <h3>Tools & Others</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-00A4E4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMEE0RTQiIGQ9Ik0xMjAgNDBjMC0xMS4xLTguOS0yMC0yMC0yMHMtMjAgOC45LTIwIDIwIDguOSAyMCAyMCAyMCAyMC04LjkgMjAtMjB6Ii8+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDc2QTgiIGQ9Ik0xMjAgNDBjMC0xMS4xLTguOS0yMC0yMC0yMHMtMjAgOC45LTIwIDIwIDguOSAyMCAyMCAyMCAyMC04LjkgMjAtMjB6Ii8+PC9zdmc+" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvajose&stroke=ffffff&background=1c1917&ring=FF4949&fire=FF4949&currStreakNum=ffffff&currStreakLabel=FF4949&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvajose&bg_color=1c1917&color=ffffff&line=FF4949&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</div>
 
 ## 🤝 Connect With Me
 
