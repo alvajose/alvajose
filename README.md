@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Based_in-Havana,_Cuba-170956?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-Mexico_City,_Mexico-170956?style=for-the-badge&logo=google-maps&logoColor=white" />
   <a href="mailto:alvajoseluis01@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-170956?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -20,7 +20,7 @@
 
 A passionate Biomedical Engineer from Havana, Cuba, with experience in software and firmware development. I specialize in microcontroller programming for medical applications and full-stack web development, continuously seeking innovative solutions and new challenges in the tech industry.
 
-- 🌍 Based in Havana, Cuba
+- 🌍 Based in Mexico City, Mexico
 - 💼 Software/Firmware Developer
 - 🤝 Open to collaborating on open-source web applications, digital systems projects and AI projects.
 - 📫 Reach me at [alvajoseluis01@gmail.com](mailto:alvajoseluis01@gmail.com)
